@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 
 # caminho correto do modelo
-model_path = r"C:\Users\Davi\Downloads\EPI DETECTION.v10i.yolov8\weights"
+model_path = r"caminho do best.pt aqui"
 
 model = YOLO(model_path)
 
