@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['BOTA', 'CAPACETE', 'COLETE', 'JALECO', 'LUVA', 'LUVA-CAPACETE-COLETE-BOTA-OCULOS', 'OCULOS', 'SEM BOTA', 'SEM LUVA', 'TOUCA']
+
+roboflow:
+  workspace: davi-er6ck
+  project: epi-detection-kzd8v
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/davi-er6ck/epi-detection-kzd8v/dataset/10
