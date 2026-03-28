@@ -42,6 +42,8 @@ pip install -r requirements.txt
 
 
 altere o destino do best.pt na linha 5 do run.py
+
+
 execute o código.
 
 ---
