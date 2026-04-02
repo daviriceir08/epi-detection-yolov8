@@ -3,7 +3,7 @@ val: ../valid/images
 test: ../test/images
 
 nc: 10
-names: ['BOTA', 'CAPACETE', 'COLETE', 'JALECO', 'LUVA', 'LUVA-CAPACETE-COLETE-BOTA-OCULOS', 'OCULOS', 'SEM BOTA', 'SEM LUVA', 'TOUCA']
+names: ['BOTA', 'CAPACETE', 'COLETE', 'JALECO', 'LUVA', 'OCULOS', 'SEM BOTA', 'SEM LUVA', 'TOUCA']
 
 roboflow:
   workspace: davi-er6ck
