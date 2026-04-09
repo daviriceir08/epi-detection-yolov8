@@ -43,6 +43,9 @@ pip install -r requirements.txt
 
 altere o destino do best.pt na linha 5 do run.py
 
+DEVE FICAR ASSIM:
+
+"SEU CAMINHO\epi-detection-yolov8-main\weights\best.pt"
 
 execute o código.
 
